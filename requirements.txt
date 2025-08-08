@@ -1,0 +1,12 @@
+pandas >= 2.3.1
+numpy >= 1.26.4
+scikit-learn >= 1.4.0
+scipy >= 1.11.4
+mcp
+fastapi
+httpx
+pydantic
+langchain
+langgraph
+langchain-google-genai
+langchain-mcp-adapters
