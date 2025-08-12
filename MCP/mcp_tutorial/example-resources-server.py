@@ -1,3 +1,4 @@
+"""
 import asyncio
 import mcp.types as types
 from mcp.server import Server
@@ -33,3 +34,4 @@ async with stdio_server() as streams:
         streams[1],
         app.create_initialization_options()
     )
+"""
